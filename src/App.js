@@ -38,7 +38,7 @@ function App() {
             ></path>
           </svg>
         </SVG>
-      
+      {/* Used https://www.shapedivider.app to build the wave like svg for the header of the website */}
       <Router>
         <Routes>
           <Route
@@ -52,6 +52,8 @@ function App() {
     </div>
   );
 }
+
+{/* Made use of styled components through out the website */}
 
 const SVG = styled.div`
   margin-top: -1px;

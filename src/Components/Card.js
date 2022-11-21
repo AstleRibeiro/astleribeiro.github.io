@@ -30,6 +30,9 @@ const Card = () => {
       return false;
     });
   };
+
+  {/* The Search function tries to search each letter from the names in the categories. */}
+
   const handlePagination = () => {
     let newResults = results + 6;
     if (newResults > posts.length) {
@@ -40,6 +43,11 @@ const Card = () => {
       
     }
   };
+
+  {/* Handle Pagination checks through the number of posts and 
+displays only 6 posts per page on which a show more button appears 
+once it has reached the end a Scroll to the Top button appears which 
+brings the user back to the top of the screen */}
 
   return (
     <>
