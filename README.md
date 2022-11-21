@@ -30,4 +30,4 @@ If you have time then demonstrating any of the following would be considered as 
 
 Outputs:
 
-![alt text](https://github.com/AstleRibeiro/react-filter/src/outputs/Detail_page.?raw=true)
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/Detail_page.png?raw=true)
