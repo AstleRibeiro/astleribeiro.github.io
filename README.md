@@ -30,4 +30,28 @@ If you have time then demonstrating any of the following would be considered as 
 
 Outputs:
 
+## Home page -
+
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/homepage.png?raw=true)
+
+## Search Filter -
+
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/using_search_filter.png.png?raw=true)
+
+## Scroll to Top -
+
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/Scroll_to_the_top.png?raw=true)
+
+## Details Page - 
+
 ![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/Detail_page.png?raw=true)
+
+## Responsive home page -
+
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/responsive_mobile_view.png?raw=true)
+
+## Responsive Details page - 
+
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/responsive_mobile_view_details_page.png?raw=true)
+
+
