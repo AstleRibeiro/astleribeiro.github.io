@@ -36,7 +36,7 @@ Outputs:
 
 ## Search Filter -
 
-![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/using_search_filter.png.png?raw=true)
+![alt text](https://github.com/AstleRibeiro/react-filter/blob/main/src/outputs/using_search_filter.png?raw=true)
 
 ## Scroll to Top -
 
