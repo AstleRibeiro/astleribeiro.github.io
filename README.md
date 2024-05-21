@@ -1,7 +1,7 @@
-# React Developer Assessment
+# React Search Filter
 
 
-#### The purpose of this assessment is to demonstrate:
+#### The purpose of this project is to demonstrate:
 
 * An understanding of React syntax
 * Working with an API
